@@ -2,13 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Josh Rees-Jones
 tagline:             'Software developer'
 description:         'Personal website of Josh Rees-Jones.'
-url:                 http://joshmreesjones.github.io
+url:                 https://joshmreesjones.github.io
 baseurl:             ''
 paginate:            5
 
