@@ -1,0 +1,19 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Josh Rees-Jones
+tagline:             'Software developer'
+description:         'Personal website of Josh Rees-Jones.'
+url:                 http://joshmreesjones.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+    name:            Josh Rees-Jones
+    url:             https://joshmreesjones.github.io
+    email:           joshmreesjones@gmail.com
