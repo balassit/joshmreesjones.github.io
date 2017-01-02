@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé of Josh Rees-Jones
+title: Résumé
 ---
 
 # Overview
