@@ -3,80 +3,73 @@ layout: page
 title: Résumé
 ---
 
-# Overview
+# Interests
 
-I'm a computer science student looking for summer 2017 internship. I'm interested in cloud computing, artificial intelligence (in particular, natural language applications), and developer tools, though any hard problem will be interesting.
+I'm interested in anything that has an impact and/or is technically challenging.
+
+- Web and mobile applications
+- Data science and machine learning
+- Artificial intelligence (in particular, natural language applications)
+- Athletics and human performance
 
 
 
 # Education
 
-**NC State University** - Raleigh, NC - Computer Science B.S., class of 2018 - GPA 3.936, **major GPA 4.000**.
+## NC State University
+Raleigh, NC - Computer Science B.S., c/o 2018 - GPA 3.928, **major GPA 4.0**.
 
-**Courses** - data structures, operating systems, data science, grammars and computability.
+## North Carolina School of Science and Mathematics
+STEM magnet school, class of 2014, took 6 computer science courses.
 
 
 
 # Experience
 
 ## IBM Watson - Software Engineering Intern
+*Raleigh, NC - Summer 2017*
 
-*Durham, NC - May 2016 to August 2016*
+- Used Watson to make [two robots play poker with humans](https://www.youtube.com/watch?v=WLgWSh6EKPQ) in a live setting
+- Used NLP, ML, and computer vision; wrote multithreaded audio clients
+- Won the national Watson intern expo among ~100 teams
 
-- Created Watson tech showcase of two robots interactively playing poker with humans
-- Wrote about project on Watson blog, demoed at American Underground (startup incubator)
-- Pitched to Watson executives, won national intern expo among ~100 teams
-- Used Watson services, computer vision, machine learning, and Internet of Things platform
-
-## NC State - Webmaster - XC and Track Club at NC State
-
+## NC State - XC and Track Club - Webmaster
 *Raleigh, NC - December 2014 to present*
 
-- Wrote and currently maintain [clubs.ncsu.edu/crosscountry](https://clubs.ncsu.edu/crosscountry/) and [runwiththepack5k.com](http://runwiththepack5k.com/)
+- Made [clubs.ncsu.edu/crosscountry](https://clubs.ncsu.edu/crosscountry/) and [runwiththepack5k.com](http://runwiththepack5k.com/)
 - Doubled club membership due to better user experience
 
 ## IBM PureApplication - Software Engineering Intern
-
 *Durham, NC – May 2015 to July 2015*
 
-- Wrote automated software to detect human error in assembly process of rack servers
-- Streamlined manufacturing process – impact reached team in Guadalajara, Mexico
+- Automated detection of human error in assembly process of rack servers
+- Streamlined manufacturing - impact reached team in Guadalajara
 
-## Developer – ClassSense - HackMIT
+## HackMIT - ClassSense - Developer
 *Cambridge, MA - September 16 - 19, 2016*
 
-- Built a real-time dashboard showing a distribution of student comprehension during class
-- Allows teachers to adjust their lesson if students get lost
-- Winner of “Best use of NativeScript” award, runner up for “Best use of Firebase” award
-
-## Developer - Google Miniterm LED Cube
-*Mountain View, CA - November 2012 to March 2013*
-
-- Built an 8x8x8 LED cube to visualize music, presented at Google HQ
-- Wrote client/display driver in Python/C to display animations on the cube and play music
-
-## Computer science TA – NC School of Science and Math
-
-*Durham, NC - August 2013 to May 2014*
-
-- Acted as TA for Dr. John Morrison, helped 100 students learn Java, HTML, CSS, and Linux
-- Taught a semester-long, 25-student “Introduction to Python” seminar
+- Built a real-time classroom dashboard showing how students are doing
+- "Best use of NativeScript" winners, “Best use of Firebase” runners-up
 
 
 
 # Skills
 
-**Languages** – Fluent: Python, Java, HTML, CSS – Familiar: JavaScript, C, Ruby
+**Languages** - Python, Java, HTML/CSS, JavaScript, C, Ruby, SQL/NoSQL
 
-**Topics** – web development, computer vision, databases, data science, agile development, Linux
+**Frameworks** - Flask, Django, Jekyll, Firebase, MongoDB
 
-**Tools/Frameworks** – Git/GitHub, vim, bash and UNIX command line, IBM PureApplication, Jekyll, Flask, SQL, Firebase, jQuery, Heroku, Arduino, ArcGIS
+**Platforms** - Linux, Windows, OS X, AWS, Heroku, Arduino, Android
+
+**DevOps** - Git/GitHub, vim, UNIX command line
+
+**Topics** - full stack web dev, computer vision, data science, architecture, NLP
 
 
 
 # Extras
 
-- I lived on a boat in the Bahamas as a kid
-- Backpacking
-- Didgeridoo
-- Competitive running (4:29 mile)
+- I lived on a boat in the Bahamas as a kid!
+- I go backpacking a lot.
+- I play didgeridoo (though I'm a New Zealand, not Australian, citizen).
+- I run and coach competitively (I have a 4:29 mile PR).
