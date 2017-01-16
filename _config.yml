@@ -6,10 +6,11 @@ permalink:           pretty
 # Setup
 title:               Josh Rees-Jones
 tagline:             'Software developer'
-description:         'Personal website of Josh Rees-Jones.'
+description:         'The website of Josh Rees-Jones.'
 url:                 https://joshmreesjones.github.io
 baseurl:             ''
 paginate:            5
+gems:                [jekyll-paginate]
 
 # About/contact
 author:
