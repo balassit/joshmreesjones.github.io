@@ -30,5 +30,6 @@ Also:
 - I enjoy playing classical and pop piano. I'm learning [Fantasie Impromptu](https://www.youtube.com/watch?v=tvm2ZsRv3C8) by Chopin and [Trouble](https://www.youtube.com/watch?v=kcASPx3-HuI) by Coldplay.
 - I can do [this Rowan Atkinson skit]() really well (at least I think so). I can do [this one](https://www.youtube.com/watch?v=OGFz9gt0-Fc) fairly well also too.
 - I'm applying to study abroad at Lund University in the fall.
+- I play didgeridoo.
 
-That's me! Check out my [resume]({{ site.baseurl }}/resume) or [blog]({{ site.baseurl }}/blog).
+That's me! Check out my [resume]({{ site.baseurl }}/resume/) or [blog]({{ site.baseurl }}/blog/).
