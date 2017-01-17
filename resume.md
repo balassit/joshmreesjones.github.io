@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 
-Feel free to [contact me]({{ site.baseurl }}/contact/) for the full copy of my resume!
+Feel free to [contact me]({{ site.baseurl }}/contact/) for the full copy of my resume.
 
 ## Skills
 
