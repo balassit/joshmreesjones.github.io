@@ -11,4 +11,5 @@ I am currently reading:
 
 I've read:
 
+- [Run Faster - From the 5K to the Marathon](https://www.amazon.com/dp/0767928229/) (finished April 2017)
 - [The National Outdoor Leadership School's Wilderness Guide](https://www.amazon.com/dp/0684859092) (finished March 2017)
